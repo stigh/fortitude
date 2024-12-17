@@ -1,0 +1,5 @@
+-   id: fortitude
+    name: Fortran linter
+    description: A Fortran linter, written in Rust and installable with Python.
+    entry: fortitude
+    language: rust
